@@ -1,4 +1,4 @@
-# YouTube Clone Project
+# Tubeify - YouTube Clone Project
 
 This project is a YouTube clone built with React, Material-UI, and RapidAPI. It aims to replicate the features of YouTube while incorporating the use of Material-UI components and RapidAPI extensions.
 
@@ -9,6 +9,9 @@ This project is a YouTube clone built with React, Material-UI, and RapidAPI. It 
 - **Struggles**: Faced challenges with fetching APIs.
 - **Learnings**: Gained experience with Material-UI and RapidAPI extension usage in VS Code, and learned fetching data from public APIs.
 - **Improvements**: Should work more on responsiveness for small devices.
+
+## Deployment
+The project is deployed and accessible at [https://relaxed-meringue-682afd.netlify.app](https://relaxed-meringue-682afd.netlify.app).
 
 ## Available Scripts
 In the project directory, you can run:
